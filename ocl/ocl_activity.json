@@ -10,10 +10,10 @@
 
             "icon": "ocl",
 
-            "tools": ["https://mdenet-ep.sites.er.kcl.ac.uk/tools/ocl/ocl_tool.yml",
-                       "https://mdenet-ep.sites.er.kcl.ac.uk/tools/epsilon/tools",
-                       "https://mdenet-ep.sites.er.kcl.ac.uk/tools/emfatic/emfatic_tool.json",
-                       "https://mdenet-ep.sites.er.kcl.ac.uk/tools/conversion/conversion_tool.json"],
+            "tools": ["https://ep.mde-network.org/tools/ocl/ocl_tool.yml",
+                       "https://ep.mde-network.org/tools/epsilon/tools",
+                       "https://ep.mde-network.org/tools/emfatic/emfatic_tool.json",
+                       "https://ep.mde-network.org/tools/conversion/conversion_tool.json"],
 
             "layout": {
 

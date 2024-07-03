@@ -10,7 +10,7 @@
 
             "icon": "ocl",
 
-            "tools": ["https://mdenet-ep.sites.er.kcl.ac.uk/tools/ocl/ocl_tool.json"],
+            "tools": ["https://ep.mde-network.org/tools/ocl/ocl_tool.json"],
 
             "layout": {
 

@@ -10,7 +10,7 @@
 
             "icon": "xtext",
 
-            "tools": ["https://mdenet-ep.sites.er.kcl.ac.uk/tools/xtext/xtext_tool.json"],
+            "tools": ["https://ep.mde-network.org/tools/xtext/xtext_tool.json"],
 
             "layout": {
 
@@ -82,9 +82,9 @@
             "icon": "xtext",
 
         "tools": ["{{ID-panel-turtles}}/editor_tool.json", 
-                  "https://mdenet-ep.sites.er.kcl.ac.uk/tools/emf/emf_tool.json",
-                  "https://mdenet-ep.sites.er.kcl.ac.uk/tools/emfatic/emfatic_tool.json",
-                  "https://mdenet-ep.sites.er.kcl.ac.uk/tools/epsilon/tools"],
+                  "https://ep.mde-network.org/tools/emf/emf_tool.json",
+                  "https://ep.mde-network.org/tools/emfatic/emfatic_tool.json",
+                  "https://ep.mde-network.org/tools/epsilon/tools"],
 
         "panels": [
             {

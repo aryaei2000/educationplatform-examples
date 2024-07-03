@@ -33,8 +33,8 @@ activities:
     ref: console
   title: Query Project Plan
   tools:
-  - https://mdenet-ep.sites.er.kcl.ac.uk/tools/epsilon/tools
-  - https://mdenet-ep.sites.er.kcl.ac.uk/tools/emfatic/emfatic_tool.json
+  - https://ep.mde-network.org/tools/epsilon/tools
+  - https://ep.mde-network.org/tools/emfatic/emfatic_tool.json
 - actions:
   - output: panel-problems
     parameters:
@@ -74,7 +74,7 @@ activities:
     ref: problem
   title: Validate Project Plan
   tools:
-  - https://mdenet-ep.sites.er.kcl.ac.uk/tools/epsilon/tools
+  - https://ep.mde-network.org/tools/epsilon/tools
 - actions:
   - output: panel-tmodel
     parameters:
@@ -119,5 +119,5 @@ activities:
     ref: console
   title: Transform to Deliverables
   tools:
-  - https://mdenet-ep.sites.er.kcl.ac.uk/tools/epsilon/tools
+  - https://ep.mde-network.org/tools/epsilon/tools
 
