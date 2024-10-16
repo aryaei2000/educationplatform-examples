@@ -10,7 +10,7 @@
 
             "icon": "xtext",
 
-            "tools": ["http://127.0.0.1:8074/xtext_tool.json"],
+            "tools": ["{{BASE-URL}}:8074/xtext_tool.json"],
 
             "layout": {
 
@@ -82,9 +82,9 @@
             "icon": "xtext",
 
         "tools": ["{{ID-panel-turtles}}/editor_tool.json", 
-                  "http://127.0.0.1:8073/emf_tool.json",
-                  "http://127.0.0.1:8071/emfatic_tool.json",
-                  "http://127.0.0.1:8070/tools"],
+                  "{{BASE-URL}}:8073/emf_tool.json",
+                  "{{BASE-URL}}:8071/emfatic_tool.json",
+                  "{{BASE-URL}}:8070/tools"],
 
         "panels": [
             {
