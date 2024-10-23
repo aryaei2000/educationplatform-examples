@@ -10,8 +10,8 @@
 
             "icon": "evl",
 
-            "tools": [ "http://127.0.0.1:8070/tools",
-                       "http://127.0.0.1:8071/emfatic_tool.json"],
+            "tools": [ "{{BASE-URL}}:8070/tools",
+                       "{{BASE-URL}}/emfatic_tool.json"],
 
             "layout": {
 
@@ -108,7 +108,7 @@
 
             "icon": "evl",
 
-            "tools": [ "http://127.0.0.1:8070/tools"],
+            "tools": [ "{{BASE-URL}}/tools"],
 
             "layout": {
 
@@ -208,7 +208,7 @@
 
         "icon": "etl",
 
-        "tools": [ "http://127.0.0.1:8070/tools"],
+        "tools": [ "{{BASE-URL}}/tools"],
 
         "layout": {
 
