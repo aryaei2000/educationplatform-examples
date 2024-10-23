@@ -10,10 +10,10 @@
 
             "icon": "ocl",
 
-            "tools": ["http://127.0.0.1:8072/ocl_tool.yml",
-                       "http://127.0.0.1:8070/tools",
-                       "http://127.0.0.1:8071/emfatic_tool.json",
-                       "http://127.0.0.1:8069/conversion_tool.json"],
+            "tools": ["{{BASE-URL}}:8072/ocl_tool.yml",
+                       "{{BASE-URL}}:8070/tools",
+                       "{{BASE-URL}}:8071/emfatic_tool.json",
+                       "{{BASE-URL}}:8069/conversion_tool.json"],
 
             "layout": {
 
